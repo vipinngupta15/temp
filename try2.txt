@@ -1,11 +1,3 @@
-fir se add karo and check karo
+text changed
 
-add the text in file
-
-and also new line
-
-added
-
-hi 
-
-second file
+done dana done
