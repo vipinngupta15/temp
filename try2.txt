@@ -1,3 +1,5 @@
+fir se add karo and check karo
+
 add the text in file
 
 and also new line
