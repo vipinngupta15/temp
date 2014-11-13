@@ -1,15 +1,1 @@
-<<<<<<< HEAD
-add the text in file
-
-and also new line
-
-added
-
-hi 
-
-second file
-=======
-insert new line
-vipin check
-changes for another
->>>>>>> eb1230fc6e97b38116fb7fb462f49636034f7443
+hi
